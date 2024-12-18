@@ -54,4 +54,4 @@
   * `python main.py --model hamida --dataset fx17_Fianl --patch_size 5 --epoch 2 --cuda 0`
     2024_12_18_17_50_24_epoch2_0.98.pth結果較好
 
->記得訓練的時候 多執行幾次 每台機器都有不同的結果
+>記得訓練的時候 多執行幾次 且多嘗試不同的參數，每台機器都有不同的結果
